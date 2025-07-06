@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html> 
+<html>
+<html lang="en">
+
+<head>
+  <meta charset ="utf-8"> 
+  <title>Travel Agency Page</title> 
+  <meta name="description" content="Enjoy a couple of tips our agency included for you to learn about travel tips"> 
+</head>
+
+<body>
+  <h1>Our Best Travel Destinations</h1>
+  <p>Hey Everyone, today I was thinking about introducing everyone to my list of favourite destinations to visit, although this list provides just a few locations you can feel free to add more. Without further ado let's go!</p>
+
+  
+  <h2>Packages</h2>
+  <p>Now, some of our packages may not be readily availiable but feel free to contact us about upcoming trips!</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target ="_blank">Group Travels</a></li>
+
+    <li><a href="https://www.freecodecamp.org/learn" target ="_blank">Private Tours</a></li>
+  </ul>
+  <h2>Top Itineraries</h2> 
+  <figure>
+  <a href="https://www.freecodecamp.org/learn" target ="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="a picture of colosseum at the twilight"> </a>
+  <figcaption>A picture of a colosseum during your next visit</figcaption>
+  </figure>
+
+ <figure>
+  <a href="https://www.freecodecamp.org/learn" target ="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="a picture of Alps during the sunset"></a>
+  <figcaption>Maybe some Alps to brighten up your morning?</figcaption>
+  </figure>
+
+  <figure>
+  <a href="https://www.freecodecamp.org/learn" target ="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="a picture of shallow bright blue sea and a boat in a middle of it"></a>
+  <figcaption>How about a dive after a nice afternoon nap?</figcaption>
+  </figure>
+</body> 
+</html>
+
+** end of index.html **
+
